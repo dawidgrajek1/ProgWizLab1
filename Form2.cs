@@ -39,6 +39,7 @@ namespace pierwszyproj2
         private void buttonStop_Click(object sender, EventArgs e)
         {
             timer1.Stop();
+            //test
         }
 
         private void buttonReset_Click(object sender, EventArgs e)
